@@ -1,0 +1,4 @@
+../Core/Src/manage_OLED.c:13:6:decide_Oled	8
+../Core/Src/manage_OLED.c:38:6:Oled_Outcircuit	1
+../Core/Src/manage_OLED.c:45:6:Oled_torn	1
+../Core/Src/manage_OLED.c:60:6:Oled_dirt_flaw	22

@@ -1,0 +1,6 @@
+../Core/Src/ir_decoder.c:6:5:__io_putchar	16	static
+../Core/Src/ir_decoder.c:25:6:IR_Init	8	static
+../Core/Src/ir_decoder.c:30:6:HAL_TIM_IC_CaptureCallback	40	static
+../Core/Src/ir_decoder.c:132:10:IR_GetIRData	4	static
+../Core/Src/ir_decoder.c:136:9:IR_GetCommand	4	static
+../Core/Src/ir_decoder.c:140:6:IR_Reset	8	static
